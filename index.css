@@ -1,0 +1,98 @@
+@import url("https://fonts.google.com/specimen/Poppins");
+img {
+  width: 118px;
+  height: 62px;
+}
+h2 {
+  color: #2d2d2d;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Epilogue;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 90px; /* 112.5% */
+}
+
+.user {
+  width: 305px;
+  height: 307px;
+  margin-top: 5px;
+}
+button {
+  background-color: #ff6464;
+
+  margin-top: 40px;
+  color: #fff;
+  font-family: Heebo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  outline: none;
+  border: none;
+}
+.social-media {
+  width: 20px;
+  height: 8px;
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none; /* Menghilangkan tanda bullet pada daftar */
+  padding: 0; /* Menghapus padding default dari daftar */
+  margin: 0; /* Menghapus margin default dari daftar */
+  margin-top: 10px !important;
+}
+
+ul li {
+  display: inline-block; /* Membuat item-item menjadi sejajar secara horizontal */
+  margin-right: 10px; /* Menambahkan jarak antara item-item */
+  gap: 5;
+}
+
+.social-media {
+  width: 30px; /* Mengatur lebar gambar sesuai kebutuhan Anda */
+  height: 30px; /* Mengatur tinggi gambar sesuai kebutuhan Anda */
+}
+.des-por {
+  margin-top: 40px;
+  display: block;
+  text-align: justify;
+  color: var(--Black, #2d2d2d);
+  text-align: justify;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Epilogue;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.cap-1 {
+  color: #2d2d2d;
+  font-family: Epilogue;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+}
+.cap-2 {
+  margin-bottom: 10px;
+  color: #2d2d2d;
+  font-family: Epilogue;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.des-user {
+  display: flex;
+  flex-direction: column;
+  margin-right: 120px;
+  margin-top: 10px !important;
+}
+p {
+  margin-bottom: 0 !important;
+}
+ul {
+  margin-left: 40px;
+}
